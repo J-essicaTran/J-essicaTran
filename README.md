@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jessica Tran
+- ⚡ I’m interested in Computer Game Development and Game Design
+- 🌱 I’m currently learning HTML, PHP, CSS, and SQL for web development
