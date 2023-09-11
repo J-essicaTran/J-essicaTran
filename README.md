@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Jessica Tran
-- ⚡ I’m interested in Computer Game Development and Game Design
-- 🌱 I’m currently learning Unreal Engine 5 through Udemy
+- ⚡ I'm interested in Computer Game Development, UX/UI, Art, and Video Games
