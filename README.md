@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Jessica Tran
-- ⚡ I'm interested in Computer Game Development, UX/UI, Art, and Video Games
+- ⚡ I'm interested in Web Development, UX/UI, Computer Game Development, Art, and Video Games
